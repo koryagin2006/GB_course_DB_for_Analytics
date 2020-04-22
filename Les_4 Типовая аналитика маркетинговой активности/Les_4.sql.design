@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Devart (www.devart.com), SQL document design file -->
+<!-- Modifying this generated file will probably render it invalid -->
+<Document>
+  <Properties>
+    <Type>SQL Document Design</Type>
+    <DatabaseProvider>59f90733-4d68-4fdf-82a7-f0fcbf5460aa</DatabaseProvider>
+    <ProviderVersion>8.2.23.0</ProviderVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+  </Properties>
+  <Connection Name="Local">
+    <Category>97d28b16-2c45-4ff7-8a1c-5e257e1fcf81</Category>
+    <ConnectionString>User Id=root;Host=localhost;Database=db_analyt_loc;Character Set=utf8</ConnectionString>
+    <Database>db_analyt_loc</Database>
+  </Connection>
+  <Views ShowAdditionalViews="False" IsLayoutActiveAttribute="True" MainViewAttribute="Code" MainViewScale="63">
+    <View Name="Design" Visible="False" />
+    <View Name="Code" Active="True" Visible="True">
+      <Data />
+    </View>
+    <View Name="Data" Visible="True" />
+    <View Name="Profiler" Visible="False" />
+    <View Name="PivotGrid" Visible="False" />
+  </Views>
+</Document>

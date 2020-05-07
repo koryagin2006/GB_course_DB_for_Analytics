@@ -13,7 +13,7 @@
     <ConnectionString>User Id=root;Host=localhost;Database=db_for_analyt;Protocol=Ssh;Character Set=utf8;SSH Host=54.93.55.206;SSH Port=22;SSH User=ubuntu;SSH Private Key="C:\Users\carne\Desktop\Geek Brains\GitHub\key1_GB.pem";SSH Authentication Type=PublicKey</ConnectionString>
     <Database>db_for_analyt</Database>
   </Connection>
-  <Views ShowAdditionalViews="False" IsLayoutActiveAttribute="True" MainViewAttribute="Code" MainViewScale="59">
+  <Views ShowAdditionalViews="False" IsLayoutActiveAttribute="True" MainViewAttribute="Code" MainViewScale="50">
     <View Name="Design" Visible="False" />
     <View Name="Code" Active="True" Visible="True">
       <Data />

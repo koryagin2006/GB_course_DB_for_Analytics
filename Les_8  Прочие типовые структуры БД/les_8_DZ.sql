@@ -91,10 +91,9 @@ SELECT COUNT(DISTINCT o.user_id) FROM orders_20190822 o WHERE o_date < '2017-01-
 SELECT COUNT(*) FROM orders-all;
 
 SELECT
-  *
+  *, DATE('2017-01-01') AS date
 /*  user_id, 
-  'Lost' AS group_,
-  DATE('2017-01-01') AS date */
+  'Lost' AS group_, */
 FROM (
 SELECT 
 	user_id,
